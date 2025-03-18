@@ -1,0 +1,1465 @@
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\appsettings.json
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Resto4.staticwebassets.runtime.json
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Resto4.exe
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Resto4.deps.json
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Resto4.runtimeconfig.json
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Resto4.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Resto4.pdb
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Humanizer.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\obj\Debug\net7.0\Resto4.csproj.AssemblyReference.cache
+C:\Users\toshiba\source\repos\Resto4\Resto4\obj\Debug\net7.0\Resto4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshiba\source\repos\Resto4\Resto4\obj\Debug\net7.0\Resto4.AssemblyInfoInputs.cache
+C:\Users\toshiba\source\repos\Resto4\Resto4\obj\Debug\net7.0\Resto4.AssemblyInfo.cs
+C:\Users\toshiba\source\repos\Resto4\Resto4\obj\Debug\net7.0\Resto4.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\source\repos\Resto4\Resto4\obj\Debug\net7.0\Resto4.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\toshiba\source\repos\Resto4\Resto4\obj\Debug\net7.0\Resto4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\toshiba\source\repos\Resto4\Resto4\obj\Debug\net7.0\Resto4.RazorAssemblyInfo.cache
+C:\Users\toshiba\source\repos\Resto4\Resto4\obj\Debug\net7.0\Resto4.RazorAssemblyInfo.cs
+C:\Users\toshiba\source\repos\Resto4\Resto4\obj\Debug\net7.0\staticwebassets\msbuild.Resto4.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\toshiba\source\repos\Resto4\Resto4\obj\Debug\net7.0\staticwebassets\msbuild.build.Resto4.props
+C:\Users\toshiba\source\repos\Resto4\Resto4\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Resto4.props
+C:\Users\toshiba\source\repos\Resto4\Resto4\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Resto4.props
+C:\Users\toshiba\source\repos\Resto4\Resto4\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\toshiba\source\repos\Resto4\Resto4\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\toshiba\source\repos\Resto4\Resto4\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\toshiba\source\repos\Resto4\Resto4\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\toshiba\source\repos\Resto4\Resto4\obj\Debug\net7.0\scopedcss\bundle\Resto4.styles.css
+C:\Users\toshiba\source\repos\Resto4\Resto4\obj\Debug\net7.0\scopedcss\projectbundle\Resto4.bundle.scp.css
+C:\Users\toshiba\source\repos\Resto4\Resto4\obj\Debug\net7.0\Resto4.csproj.CopyComplete
+C:\Users\toshiba\source\repos\Resto4\Resto4\obj\Debug\net7.0\Resto4.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\obj\Debug\net7.0\refint\Resto4.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\obj\Debug\net7.0\Resto4.pdb
+C:\Users\toshiba\source\repos\Resto4\Resto4\obj\Debug\net7.0\Resto4.genruntimeconfig.cache
+C:\Users\toshiba\source\repos\Resto4\Resto4\obj\Debug\net7.0\ref\Resto4.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\toshiba\source\repos\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Exchange.WebServices.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\appsettings.json
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Resto4.staticwebassets.runtime.json
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Resto4.exe
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Resto4.deps.json
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Resto4.runtimeconfig.json
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Resto4.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Resto4.pdb
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Humanizer.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Exchange.WebServices.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\obj\Debug\net7.0\Resto4.csproj.AssemblyReference.cache
+C:\Users\toshiba\Desktop\Resto4\Resto4\obj\Debug\net7.0\Resto4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshiba\Desktop\Resto4\Resto4\obj\Debug\net7.0\Resto4.AssemblyInfoInputs.cache
+C:\Users\toshiba\Desktop\Resto4\Resto4\obj\Debug\net7.0\Resto4.AssemblyInfo.cs
+C:\Users\toshiba\Desktop\Resto4\Resto4\obj\Debug\net7.0\Resto4.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\Desktop\Resto4\Resto4\obj\Debug\net7.0\Resto4.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\toshiba\Desktop\Resto4\Resto4\obj\Debug\net7.0\Resto4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\toshiba\Desktop\Resto4\Resto4\obj\Debug\net7.0\Resto4.RazorAssemblyInfo.cache
+C:\Users\toshiba\Desktop\Resto4\Resto4\obj\Debug\net7.0\Resto4.RazorAssemblyInfo.cs
+C:\Users\toshiba\Desktop\Resto4\Resto4\obj\Debug\net7.0\staticwebassets\msbuild.Resto4.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\toshiba\Desktop\Resto4\Resto4\obj\Debug\net7.0\staticwebassets\msbuild.build.Resto4.props
+C:\Users\toshiba\Desktop\Resto4\Resto4\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Resto4.props
+C:\Users\toshiba\Desktop\Resto4\Resto4\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Resto4.props
+C:\Users\toshiba\Desktop\Resto4\Resto4\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\toshiba\Desktop\Resto4\Resto4\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\toshiba\Desktop\Resto4\Resto4\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\toshiba\Desktop\Resto4\Resto4\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\toshiba\Desktop\Resto4\Resto4\obj\Debug\net7.0\scopedcss\bundle\Resto4.styles.css
+C:\Users\toshiba\Desktop\Resto4\Resto4\obj\Debug\net7.0\scopedcss\projectbundle\Resto4.bundle.scp.css
+C:\Users\toshiba\Desktop\Resto4\Resto4\obj\Debug\net7.0\Resto4.csproj.CopyComplete
+C:\Users\toshiba\Desktop\Resto4\Resto4\obj\Debug\net7.0\Resto4.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\obj\Debug\net7.0\refint\Resto4.dll
+C:\Users\toshiba\Desktop\Resto4\Resto4\obj\Debug\net7.0\Resto4.pdb
+C:\Users\toshiba\Desktop\Resto4\Resto4\obj\Debug\net7.0\Resto4.genruntimeconfig.cache
+C:\Users\toshiba\Desktop\Resto4\Resto4\obj\Debug\net7.0\ref\Resto4.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\appsettings.Development.json
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\appsettings.json
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Resto4.staticwebassets.runtime.json
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Resto4.exe
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Resto4.deps.json
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Resto4.runtimeconfig.json
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Resto4.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Resto4.pdb
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Azure.Core.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Azure.Identity.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Humanizer.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Build.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Exchange.WebServices.Auth.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Exchange.WebServices.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\NuGet.Common.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\System.CodeDom.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\System.Memory.Data.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\af\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\ar\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\az\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\bg\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\cs\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\da\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\de\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\el\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\es\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\fa\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\fr\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\he\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\hr\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\hu\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\hy\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\id\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\is\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\it\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\ja\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\ku\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\lv\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\mt\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\nb\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\nl\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\pl\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\pt\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\ro\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\ru\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\sk\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\sl\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\sr\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\sv\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\tr\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\uk\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\vi\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\projet\Resto4\Resto4\obj\Debug\net7.0\Resto4.csproj.AssemblyReference.cache
+D:\projet\Resto4\Resto4\obj\Debug\net7.0\Resto4.GeneratedMSBuildEditorConfig.editorconfig
+D:\projet\Resto4\Resto4\obj\Debug\net7.0\Resto4.AssemblyInfoInputs.cache
+D:\projet\Resto4\Resto4\obj\Debug\net7.0\Resto4.AssemblyInfo.cs
+D:\projet\Resto4\Resto4\obj\Debug\net7.0\Resto4.csproj.CoreCompileInputs.cache
+D:\projet\Resto4\Resto4\obj\Debug\net7.0\Resto4.MvcApplicationPartsAssemblyInfo.cs
+D:\projet\Resto4\Resto4\obj\Debug\net7.0\Resto4.MvcApplicationPartsAssemblyInfo.cache
+D:\projet\Resto4\Resto4\obj\Debug\net7.0\Resto4.RazorAssemblyInfo.cache
+D:\projet\Resto4\Resto4\obj\Debug\net7.0\Resto4.RazorAssemblyInfo.cs
+D:\projet\Resto4\Resto4\obj\Debug\net7.0\staticwebassets\msbuild.Resto4.Microsoft.AspNetCore.StaticWebAssets.props
+D:\projet\Resto4\Resto4\obj\Debug\net7.0\staticwebassets\msbuild.build.Resto4.props
+D:\projet\Resto4\Resto4\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Resto4.props
+D:\projet\Resto4\Resto4\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Resto4.props
+D:\projet\Resto4\Resto4\obj\Debug\net7.0\staticwebassets.pack.json
+D:\projet\Resto4\Resto4\obj\Debug\net7.0\staticwebassets.build.json
+D:\projet\Resto4\Resto4\obj\Debug\net7.0\staticwebassets.development.json
+D:\projet\Resto4\Resto4\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\projet\Resto4\Resto4\obj\Debug\net7.0\scopedcss\bundle\Resto4.styles.css
+D:\projet\Resto4\Resto4\obj\Debug\net7.0\scopedcss\projectbundle\Resto4.bundle.scp.css
+D:\projet\Resto4\Resto4\obj\Debug\net7.0\Resto4.csproj.CopyComplete
+D:\projet\Resto4\Resto4\obj\Debug\net7.0\Resto4.dll
+D:\projet\Resto4\Resto4\obj\Debug\net7.0\refint\Resto4.dll
+D:\projet\Resto4\Resto4\obj\Debug\net7.0\Resto4.pdb
+D:\projet\Resto4\Resto4\obj\Debug\net7.0\Resto4.genruntimeconfig.cache
+D:\projet\Resto4\Resto4\obj\Debug\net7.0\ref\Resto4.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\appsettings.Development.json
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\appsettings.json
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Resto4.staticwebassets.runtime.json
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Resto4.exe
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Resto4.deps.json
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Resto4.runtimeconfig.json
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Resto4.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Resto4.pdb
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Azure.Core.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Azure.Identity.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Humanizer.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Exchange.WebServices.Auth.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Exchange.WebServices.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\NuGet.Common.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\System.CodeDom.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\obj\Debug\net7.0\Resto4.csproj.AssemblyReference.cache
+C:\Donnees\Desktop\projet\Resto4\Resto4\obj\Debug\net7.0\Resto4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Donnees\Desktop\projet\Resto4\Resto4\obj\Debug\net7.0\Resto4.AssemblyInfoInputs.cache
+C:\Donnees\Desktop\projet\Resto4\Resto4\obj\Debug\net7.0\Resto4.AssemblyInfo.cs
+C:\Donnees\Desktop\projet\Resto4\Resto4\obj\Debug\net7.0\Resto4.csproj.CoreCompileInputs.cache
+C:\Donnees\Desktop\projet\Resto4\Resto4\obj\Debug\net7.0\Resto4.MvcApplicationPartsAssemblyInfo.cs
+C:\Donnees\Desktop\projet\Resto4\Resto4\obj\Debug\net7.0\Resto4.MvcApplicationPartsAssemblyInfo.cache
+C:\Donnees\Desktop\projet\Resto4\Resto4\obj\Debug\net7.0\Resto4.RazorAssemblyInfo.cache
+C:\Donnees\Desktop\projet\Resto4\Resto4\obj\Debug\net7.0\Resto4.RazorAssemblyInfo.cs
+C:\Donnees\Desktop\projet\Resto4\Resto4\obj\Debug\net7.0\staticwebassets\msbuild.Resto4.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Donnees\Desktop\projet\Resto4\Resto4\obj\Debug\net7.0\staticwebassets\msbuild.build.Resto4.props
+C:\Donnees\Desktop\projet\Resto4\Resto4\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Resto4.props
+C:\Donnees\Desktop\projet\Resto4\Resto4\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Resto4.props
+C:\Donnees\Desktop\projet\Resto4\Resto4\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Donnees\Desktop\projet\Resto4\Resto4\obj\Debug\net7.0\staticwebassets.build.json
+C:\Donnees\Desktop\projet\Resto4\Resto4\obj\Debug\net7.0\staticwebassets.development.json
+C:\Donnees\Desktop\projet\Resto4\Resto4\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Donnees\Desktop\projet\Resto4\Resto4\obj\Debug\net7.0\scopedcss\bundle\Resto4.styles.css
+C:\Donnees\Desktop\projet\Resto4\Resto4\obj\Debug\net7.0\scopedcss\projectbundle\Resto4.bundle.scp.css
+C:\Donnees\Desktop\projet\Resto4\Resto4\obj\Debug\net7.0\Resto4.csproj.CopyComplete
+C:\Donnees\Desktop\projet\Resto4\Resto4\obj\Debug\net7.0\Resto4.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\obj\Debug\net7.0\refint\Resto4.dll
+C:\Donnees\Desktop\projet\Resto4\Resto4\obj\Debug\net7.0\Resto4.pdb
+C:\Donnees\Desktop\projet\Resto4\Resto4\obj\Debug\net7.0\Resto4.genruntimeconfig.cache
+C:\Donnees\Desktop\projet\Resto4\Resto4\obj\Debug\net7.0\ref\Resto4.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\appsettings.Development.json
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\appsettings.json
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Resto4.staticwebassets.runtime.json
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Resto4.exe
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Resto4.deps.json
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Resto4.runtimeconfig.json
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Resto4.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Resto4.pdb
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Azure.Core.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Azure.Identity.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Humanizer.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Exchange.WebServices.Auth.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Exchange.WebServices.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\NuGet.Common.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\System.CodeDom.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\obj\Debug\net7.0\Resto4.csproj.AssemblyReference.cache
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\obj\Debug\net7.0\Resto4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\obj\Debug\net7.0\Resto4.AssemblyInfoInputs.cache
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\obj\Debug\net7.0\Resto4.AssemblyInfo.cs
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\obj\Debug\net7.0\Resto4.csproj.CoreCompileInputs.cache
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\obj\Debug\net7.0\Resto4.MvcApplicationPartsAssemblyInfo.cs
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\obj\Debug\net7.0\Resto4.MvcApplicationPartsAssemblyInfo.cache
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\obj\Debug\net7.0\Resto4.RazorAssemblyInfo.cache
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\obj\Debug\net7.0\Resto4.RazorAssemblyInfo.cs
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\obj\Debug\net7.0\staticwebassets\msbuild.Resto4.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\obj\Debug\net7.0\staticwebassets\msbuild.build.Resto4.props
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Resto4.props
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Resto4.props
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\obj\Debug\net7.0\staticwebassets.build.json
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\obj\Debug\net7.0\staticwebassets.development.json
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\obj\Debug\net7.0\scopedcss\bundle\Resto4.styles.css
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\obj\Debug\net7.0\scopedcss\projectbundle\Resto4.bundle.scp.css
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\obj\Debug\net7.0\Resto4.csproj.CopyComplete
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\obj\Debug\net7.0\Resto4.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\obj\Debug\net7.0\refint\Resto4.dll
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\obj\Debug\net7.0\Resto4.pdb
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\obj\Debug\net7.0\Resto4.genruntimeconfig.cache
+C:\Donnees\Desktop\C# .Net\UniversDesDélices\Resto4\Resto4\obj\Debug\net7.0\ref\Resto4.dll

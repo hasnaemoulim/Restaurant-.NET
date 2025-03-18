@@ -1,0 +1,365 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Resto4.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Resto4.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\css\\styleAccueil.css",
+      "PackagePath": "staticwebassets\\css\\styleAccueil.css"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\css\\styleExperts.css",
+      "PackagePath": "staticwebassets\\css\\styleExperts.css"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\10.png",
+      "PackagePath": "staticwebassets\\images\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\11.jpeg",
+      "PackagePath": "staticwebassets\\images\\11.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\12.jpg",
+      "PackagePath": "staticwebassets\\images\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\1er.jpg",
+      "PackagePath": "staticwebassets\\images\\1er.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\2.png",
+      "PackagePath": "staticwebassets\\images\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\2eme.jpg",
+      "PackagePath": "staticwebassets\\images\\2eme.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\3eme.png",
+      "PackagePath": "staticwebassets\\images\\3eme.png"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\4.webp",
+      "PackagePath": "staticwebassets\\images\\4.webp"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\4eme.jpg",
+      "PackagePath": "staticwebassets\\images\\4eme.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\5.png",
+      "PackagePath": "staticwebassets\\images\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\8.jpeg",
+      "PackagePath": "staticwebassets\\images\\8.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\Bullit de peix.jpg",
+      "PackagePath": "staticwebassets\\images\\Bullit de peix.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\Escalopes milanaises.jpg",
+      "PackagePath": "staticwebassets\\images\\Escalopes milanaises.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\Flag_of_Italy.png",
+      "PackagePath": "staticwebassets\\images\\Flag_of_Italy.png"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\Fleurs frites.jpg",
+      "PackagePath": "staticwebassets\\images\\Fleurs frites.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\Image1.jpg",
+      "PackagePath": "staticwebassets\\images\\Image1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\LAZAGNE.jpg",
+      "PackagePath": "staticwebassets\\images\\LAZAGNE.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\Lait frit.jpg",
+      "PackagePath": "staticwebassets\\images\\Lait frit.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\PAILLA.jpg",
+      "PackagePath": "staticwebassets\\images\\PAILLA.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\Polvito uruguayo.jpg",
+      "PackagePath": "staticwebassets\\images\\Polvito uruguayo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\Poulet au chilindron.jpg",
+      "PackagePath": "staticwebassets\\images\\Poulet au chilindron.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\SPAGHITI.jpg",
+      "PackagePath": "staticwebassets\\images\\SPAGHITI.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\Takoyaki.jpg",
+      "PackagePath": "staticwebassets\\images\\Takoyaki.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\WhatsApp Image 2023-12-09 at 16.34.02.jpeg",
+      "PackagePath": "staticwebassets\\images\\WhatsApp Image 2023-12-09 at 16.34.02.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\Yakiniku.jpg",
+      "PackagePath": "staticwebassets\\images\\Yakiniku.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\apropos.jpeg",
+      "PackagePath": "staticwebassets\\images\\apropos.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\arancini.jpg",
+      "PackagePath": "staticwebassets\\images\\arancini.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\bg2.jpg",
+      "PackagePath": "staticwebassets\\images\\bg2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\biscotti.jpg",
+      "PackagePath": "staticwebassets\\images\\biscotti.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\c.jpg",
+      "PackagePath": "staticwebassets\\images\\c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\c1.jpg",
+      "PackagePath": "staticwebassets\\images\\c1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\c11.jpg",
+      "PackagePath": "staticwebassets\\images\\c11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\c2.jpg",
+      "PackagePath": "staticwebassets\\images\\c2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\c3.jpg",
+      "PackagePath": "staticwebassets\\images\\c3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\c4.jpg",
+      "PackagePath": "staticwebassets\\images\\c4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\c5.jpg",
+      "PackagePath": "staticwebassets\\images\\c5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\calamars-a-la-catalane.webp",
+      "PackagePath": "staticwebassets\\images\\calamars-a-la-catalane.webp"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\caprese-salad.jpg",
+      "PackagePath": "staticwebassets\\images\\caprese-salad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\client.jpg",
+      "PackagePath": "staticwebassets\\images\\client.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\crevette-a-l-ail.webp",
+      "PackagePath": "staticwebassets\\images\\crevette-a-l-ail.webp"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\images\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\fabada.webp",
+      "PackagePath": "staticwebassets\\images\\fabada.webp"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\fiorentina steak.jpg",
+      "PackagePath": "staticwebassets\\images\\fiorentina steak.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\flagJapon.png",
+      "PackagePath": "staticwebassets\\images\\flagJapon.png"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\flagMaroc.jpg",
+      "PackagePath": "staticwebassets\\images\\flagMaroc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\flagofspaine.png",
+      "PackagePath": "staticwebassets\\images\\flagofspaine.png"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\gyoza.png",
+      "PackagePath": "staticwebassets\\images\\gyoza.png"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\katsukare-kareraisu.png",
+      "PackagePath": "staticwebassets\\images\\katsukare-kareraisu.png"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\muffuletta.jpg",
+      "PackagePath": "staticwebassets\\images\\muffuletta.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\okonomiyaki.jpg",
+      "PackagePath": "staticwebassets\\images\\okonomiyaki.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\panna-cotta.jpg",
+      "PackagePath": "staticwebassets\\images\\panna-cotta.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\ramen.jpg",
+      "PackagePath": "staticwebassets\\images\\ramen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\shabu-shabu.jpg",
+      "PackagePath": "staticwebassets\\images\\shabu-shabu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\shogayaki.png",
+      "PackagePath": "staticwebassets\\images\\shogayaki.png"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\shrimp-risotto.jpg",
+      "PackagePath": "staticwebassets\\images\\shrimp-risotto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\soupe de galetes farcis.jpg",
+      "PackagePath": "staticwebassets\\images\\soupe de galetes farcis.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\sushi.jpg",
+      "PackagePath": "staticwebassets\\images\\sushi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\t1.jpeg",
+      "PackagePath": "staticwebassets\\images\\t1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\t2.jpg",
+      "PackagePath": "staticwebassets\\images\\t2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\t3.jpg",
+      "PackagePath": "staticwebassets\\images\\t3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\tiramisu.jpg",
+      "PackagePath": "staticwebassets\\images\\tiramisu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\tortelli.jpg",
+      "PackagePath": "staticwebassets\\images\\tortelli.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\téléchargement.png",
+      "PackagePath": "staticwebassets\\images\\téléchargement.png"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\udon.jpg",
+      "PackagePath": "staticwebassets\\images\\udon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\unagi.jpg",
+      "PackagePath": "staticwebassets\\images\\unagi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\xato.jpg",
+      "PackagePath": "staticwebassets\\images\\xato.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\yakitori.jpg",
+      "PackagePath": "staticwebassets\\images\\yakitori.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\images\\zarzuela.webp",
+      "PackagePath": "staticwebassets\\images\\zarzuela.webp"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\js\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\js\\chart-area-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\js\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\js\\chart-bar-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\js\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\js\\chart-pie-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\js\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\js\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\toshiba\\Desktop\\Resto4\\Resto4\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Resto4.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Resto4.props",
+      "PackagePath": "build\\Resto4.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Resto4.props",
+      "PackagePath": "buildMultiTargeting\\Resto4.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Resto4.props",
+      "PackagePath": "buildTransitive\\Resto4.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

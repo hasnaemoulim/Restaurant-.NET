@@ -1,0 +1,147 @@
+﻿<div class="tout2">
+<div class="body">
+    <!--image slider start-->
+    <div class="slider">
+        <div class="slides">
+            <!--radio buttons start-->
+            <input type="radio" name="radio-btn" id="radio1">
+            <input type="radio" name="radio-btn" id="radio2">
+            <input type="radio" name="radio-btn" id="radio3">
+            <input type="radio" name="radio-btn" id="radio4">
+            <!--radio buttons end-->
+            <!--slide images start-->
+            <div class="slide first">
+                <img src="~/images/2eme.jpg" alt="">
+            </div>
+            <div class="slide">
+                <img src="~/images/1er.jpg" alt="">
+            </div>
+            <div class="slide">
+                <img src="~/images/3eme.png" alt="">
+            </div>
+            <div class="slide">
+                <img src="~/images/4eme.jpg" alt="">
+            </div>
+            <!--slide images end-->
+            <!--automatic navigation start-->
+            <div class="navigation-auto">
+                <div class="auto-btn1"></div>
+                <div class="auto-btn2"></div>
+                <div class="auto-btn3"></div>
+                <div class="auto-btn4"></div>
+            </div>
+            <!--automatic navigation end-->
+        </div>
+        <!--manual navigation start-->
+        <div class="navigation-manual">
+            <label for="radio1" class="manual-btn"></label>
+            <label for="radio2" class="manual-btn"></label>
+            <label for="radio3" class="manual-btn"></label>
+            <label for="radio4" class="manual-btn"></label>
+        </div>
+        <!--manual navigation end-->
+    </div>
+    <!--image slider end-->
+
+    <script type="text/javascript">
+        var counter = 1;
+        setInterval(function () {
+            document.getElementById('radio' + counter).checked = true;
+            counter++;
+            if (counter > 4) {
+                counter = 1;
+            }
+        }, 5000);
+    </script>
+</div>
+<br>
+<hr>
+<section class="menu" id="menu">
+    <div class="titre">
+        <h2 class="titre-texte"><b><span>Nos</span>Experts</b></h2>
+        
+    </div>
+    <div class="contenu">
+        <div class="box">
+            <div class="imbox">
+                <img src="~/images/c1.jpg" alt="">
+            </div>
+            <div class="text">
+                <br>
+                <h2>Mohamed legnaoui</h2><br>
+                <h4><u>L'art culinaire Marocain</u></h4>
+
+                <li>Couscous</li>
+                <li>Pastilla</li>
+                <li>Tajine</li>
+                <li>Tanjia </li>
+                <br>
+
+                <a href="/Home/Privacy"><button><span class="btn_contact">Cuisine marocaine</span></button></a>
+
+            </div>
+        </div>
+        <div class="box">
+            <div class="imbox">
+                <img src="~/images/c2.jpg" alt="">
+            </div>
+            <div class="text">
+                <br>
+                <h2>Takayuki Nameura</h2><br>
+                <h4><u>L'art culinaire Japonais.</u></h4>
+
+                <li>Katsukare</li>
+                <li>Gyozas</li>
+                <li>Yakitori</li>
+                <li>Sushi</li>
+                <br>
+                    <a href="/Home/Privacy"><button><span class="btn_contact">Cuisine japonnaise</span></button></a>
+            </div>
+
+        </div>
+        <div class="box">
+            <div class="imbox">
+                <img src="~/images/c3.jpg" alt="">
+            </div>
+            <div class="text">
+                <br>
+                <h2>Antonino Cannavacciuolo</h2><br>
+                <h4><u>L'art culinaire Italien.</u></h4>
+                <li>Panna cotta </li>
+                <li>Biscotti</li>
+                <li>Fiorentina</li>
+                <li>Churro cannolis</li>
+                <br>
+                    <a href="/Home/Privacy"><button><span class="btn_contact">Cuisine italienne</span></button></a>
+            </div>
+        </div>
+        <div class="box">
+            <div class="imbox">
+                <img src="~/images/c4.jpg" alt="">
+            </div>
+            <div class="text">
+                <br>
+                <h2>Elena Arzak</h2><br>
+                <h4><u>L'art culinaire Espagnole.</u></h4>
+                <li>Calamars à la catalane</li>
+                <li>Crevette à l'ail</li>
+                <li>Zarzuela</li>
+                <li>Fabada</li>
+                <br>
+                    <a href="/Home/Privacy"><button><span class="btn_contact">Cuisine espagnole</span></button></a>
+            </div>
+        </div>
+        <div class="box">
+            <div class="imbox">
+                <img src="~/images/c5.jpg" alt="">
+            </div>
+            <div class="text">
+                <br>
+                <h2><b>Notre équipe</b></h2>
+            </div>
+        </div>
+
+    </div>
+    
+</section>
+</div>

@@ -1,0 +1,62 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject UserManager<IdentityUser> UserManager
+
+@{
+    ViewBag.Title = "clients";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<div class="container">
+<div class="container-fluid px-4">
+        <h1 class="titre-texte1"><b><span>C</span>lients</b></h1>
+    <ol class="breadcrumb mb-4">
+        <li class="breadcrumb-item active">Clients</li>
+    </ol>
+
+</div>
+
+<div class="card mb-4">
+    <div class="card-header">
+        <i class="fas fa-table me-1"></i>
+        Clients Details
+        <a href="../Admin/CreateClient" class="btn btn-info pull-right right">Add new</a>
+    </div>
+    <div class="card-body">
+        <table id="datatablesSimple">
+            <thead>
+                <tr>
+                    <th>id client</th>
+                    <th>Username</th>
+                    <th>email</th>
+                    <th>Roles</th>
+                    <th>action</th>
+                    <th>action</th>
+                </tr>
+            </thead>
+            <tfoot>
+                <tr>
+                    <th>id client</th>
+                    <th>Username</th>
+                    <th>email</th>
+                    <th>Roles</th>
+                    <th>action</th>
+                    <th>action</th>
+                </tr>
+            </tfoot>
+            <tbody>
+                @foreach (var user in UserManager.Users.ToList()) // Materialize the collection with ToList()
+                {
+                    <tr>
+                        <td>@user.Id</td>
+                        <td>@user.UserName</td>
+                        <td>@user.Email</td>
+                        <td>@string.Join(", ", await UserManager.GetRolesAsync(user))</td>
+                        <td>@Html.ActionLink("Edit", "EditClient", new { id = user.Id })</td>
+                        <td>@Html.ActionLink("Delete", "DeleteClient", new { id = user.Id })</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+    </div>
+</div>
+</div>

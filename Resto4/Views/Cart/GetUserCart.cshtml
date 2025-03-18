@@ -1,0 +1,65 @@
+﻿@model Cart
+@{
+    ViewData["Title"] = "GetUserCart";
+}
+<div class="cart"> 
+<div style="width:90%;margin:auto" >
+   
+    
+    @if (Model != null && Model.CartDetails != null && Model.CartDetails.Count > 0)
+    {
+            <h1 class="titre-texte"><b><span>M</span>on Panier</b></h1>
+
+        <table class="table table-bordered">
+            <tr>
+                <th>Plat</th>
+                <th>Image</th>
+                <th>Catégorie</th>
+                <th>Unité de Prix(Dhs)</th>
+                <th>Total Price</th>
+                <th>Action</th>
+            </tr>
+            @foreach (var item in Model.CartDetails)
+            {
+                <tr>
+                    <td>@item.Plat.PlatName </td>
+                    <td>
+                        @if (string.IsNullOrEmpty(item.Plat.Image))
+                        {
+                                <img src="/images/téléchargement.png" style="width:80px;height:100px" />
+
+
+                        }
+                        else
+                        {
+                                <img src="/images/@item.Plat.Image" style="width:160px;height:120px" />
+                        }    
+
+                    </td>
+                    <td>@item.Plat.Category.CategoryName</td>
+                    <td>@item.Plat.Price X @item.Quantity</td>
+                    <td>@(item.Plat.Price * item.Quantity)</td>
+                    <td>
+
+                        <a class="btn btn-info" href="/Cart/AddItem?platId=@item.PlatId&&redirect=1">+</a>
+                        <a class="btn btn-info" href="/cart/removeitem?platid=@item.PlatId">-</a>
+                    </td>
+                </tr>
+            }
+
+        </table>
+        <div class="my-2">
+            <h5>Total(Dhs): </h5>
+            @(Model.CartDetails.Select(item => item.Plat.Price * item.Quantity).Sum())
+        </div>
+
+        <div class="my-2">
+            <a class="btn btn-primary" href="/Cart/Checkout">Checkout</a>
+        </div>
+    }
+    else
+    {
+            <h1 class="titre-texte"><b><span>L</span>e panier est vide</b></h1>
+    }
+</div>
+</div>

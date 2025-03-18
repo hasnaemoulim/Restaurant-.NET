@@ -1,0 +1,60 @@
+﻿@model List<Resto4.Models.Order>
+
+@{
+    ViewBag.Title = "Orders";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<div class="container">
+<div class="container-fluid px-4">
+        <h1 class="titre-texte1"><b><span>F</span>acture</b></h1>
+    <ol class="breadcrumb mb-4">
+        <li class="breadcrumb-item active">Facture</li>
+    </ol>
+
+</div>
+
+<div class="card mb-4">
+    <div class="card-header">
+        <i class="fas fa-table me-1"></i>
+        Facture Details
+    </div>
+    <div class="card-body">
+        <table id="datatablesSimple">
+            <thead>
+                <tr>
+                    <th>OrderId </th>
+                    <th>UserId</th>
+                    <th>CreateDate </th>
+                    <th>OrderStatusId </th>
+
+                </tr>
+            </thead>
+            <tfoot>
+                <tr>
+                    <th>OrderId </th>
+                    <th>UserId</th>
+                    <th>CreateDate </th>
+                    <th>OrderStatusId </th>
+
+                </tr>
+            </tfoot>
+            <tbody>
+                <tr>
+                    @foreach (var item in Model)
+                    {
+                    <tr>
+                        <td>@(Model.IndexOf(item) + 1)</td>
+                        <td>@(item.UserName ?? "Unknown User")</td>
+                        <td>@item.CreateDate</td>
+                        <td>@(item.OrderStatus?.StatusName ?? "Unknown Status")</td>
+                        <td>@Html.ActionLink("Edit", "EditOrders", new { id = item.OrderId })</td>
+                    </tr>
+                    }
+                </tr>
+            </tbody>
+        </table>
+
+    </div>
+</div>
+</div>
+

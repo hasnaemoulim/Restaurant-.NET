@@ -1,0 +1,90 @@
+﻿
+@model PlatDisplayModel
+@{
+}
+
+<div class="tout1 " >
+<div class="my-2">
+    
+    <form asp-action="Privacy" class="row row-cols-lg-auto g-3 align-items-center">
+        <div class="col-12">
+            <label class="visually-hidden" for="categoryId">Categories</label>
+            <select class="form-select" id="categoryId" name="categoryId">
+                <option selected>Catégorie</option>
+                @foreach (var category in Model.Categories)
+                {
+                    <option selected="@(category.CategoryId == Model.CategoryId)" value="@category.CategoryId">@category.CategoryName</option>
+                }
+            </select>
+        </div>
+        <div class="col-12">
+            <label class="visually-hidden" for="sterm">Search by title</label>
+            <div class="input-group">
+                <div class="input-group-text"></div>
+                <input type="text" class="form-control" value="@Model.STerm" id="sterm" name="sterm" placeholder="Search by title">
+            </div>
+        </div>
+
+
+        <div class="col-12">
+            <button type="submit" class="btn btn-primary">Search</button>
+            <a href="/Home/Privacy" class="btn btn-dark">Reset</a>
+        </div>
+    </form>
+</div>
+
+<div class="w-100 mt-4 d-flex flex-wrap" >
+    @foreach (var plat in Model.Plats)
+    {
+        <div class="card mx-2 mb-4" style="width: 16rem;">
+            @if (string.IsNullOrEmpty(plat.Image))
+            {
+                <img style="width:100%;height:180px" src="/images/téléchargement.png" class="card-img-top" alt="...">
+
+            }
+            else
+            {
+                <img style="width:100%;height:180px" src="/images/@plat.Image" class="card-img-top" alt="...">
+            }
+
+                <div class="card-body" style="background-color: #C8AD7F;">
+                    <h5 class="card-title"><center><b><u>@plat.PlatName</u></b></center></h5>
+                <p class="card-text">
+                    Catégorie :@plat.CategoryName <br />
+                        <b>Chef:</b>@plat.chefName <br />
+                    Prix : @plat.Price Dhs
+                </p>
+                    <center><button type="button" onclick="add(@plat.PlatId)" class="btn btn-primary">Ajouter au Panier</button></center>
+            </div>
+        </div>
+    }
+</div>
+</div>
+@section Scripts{
+    <script>
+
+        async function add(platId) {
+            var usernameEl = document.getElementById("username");
+            if (usernameEl == null) {
+                window.location.href = "/Identity/Account/Login";
+            }
+            //var username=usernameEl.innerText;
+            //  if(username.length<1){
+            //      window.location.href="/Identity/Account/Login";
+            //  }
+            try {
+                var response = await fetch(`/Cart/AddItem?platId=${platId}`);
+                if (response.status == 200) {
+                    var result = await response.json();
+
+                    var cartCountEl = document.getElementById("cartCount");
+                    cartCountEl.innerHTML = result;
+                    // window.location.href = "#cartCount";
+                }
+            } catch (err) {
+                console.log(err);
+            }
+        }
+
+    </script>
+}

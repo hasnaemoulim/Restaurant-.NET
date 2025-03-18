@@ -1,0 +1,72 @@
+﻿@model List<Resto4.Models.Plat>
+
+@{
+    ViewBag.Title = "Plats";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<div class="container">
+<div class="container-fluid px-4">
+        <h1 class="titre-texte1"><b><span>P</span>lats</b></h1>
+    
+    <ol class="breadcrumb mb-4">
+        <li class="breadcrumb-item active">Plats</li>
+    </ol>
+
+</div>
+
+<div class="card mb-4">
+    <div class="card-header">
+        <i class="fas fa-table me-1"></i>
+        Plats Details
+        <a href="../Admin/CreatePlat" class="btn btn-info pull-right right">Add new</a>
+    </div>
+    <div class="card-body">
+        <table id="datatablesSimple">
+            <thead>
+                <tr>
+                    <th>id plat</th>
+                    <th>nom plat</th>
+                    <th>prix</th>
+                    <th>image</th>
+                    <th>id categorie</th>
+                    <th>chefName</th>
+                    <th>action</th>
+                    <th>action</th>
+                </tr>
+            </thead>
+            <tfoot>
+                <tr>
+                    <th>id plat</th>
+                    <th>nom plat</th>
+                    <th>prix</th>
+                    <th>image</th>
+                    <th>id categorie</th>
+                    <th>chefName</th>
+                    <th>action</th>
+                    <th>action</th>
+                </tr>
+            </tfoot>
+            <tbody>
+                <tr>
+                    @foreach (var item in Model)
+                    {
+                    <tr>
+                        <td>@(Model.IndexOf(item) + 1)</td>
+                        <td>@item.PlatName</td>
+                        <td>@item.Price</td>
+                        <td>@item.Image</td>
+                        <td>@(item.Category?.CategoryName ?? "Unknown Category")</td>
+                        <td>@item.chefName</td>
+                        <td>@Html.ActionLink("Edit", "EditPlat", new { id = item.PlatId })</td>
+                        <td>
+                                @Html.ActionLink("Delete", "DeletePlat", new { id = item.PlatId })
+                        </td>
+                    </tr>
+                    }
+                </tr>
+            </tbody>
+        </table>
+
+    </div>
+</div>
+</div>

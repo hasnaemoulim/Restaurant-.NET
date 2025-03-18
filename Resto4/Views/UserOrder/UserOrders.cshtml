@@ -1,0 +1,82 @@
+﻿@model IEnumerable<Order>
+
+@{
+ }
+<div class="cart">
+<div style="width:100%" class="mt-2">
+    <a href="/Identity/Account/Manage" class="btn btn-primary my-2">Back</a>
+    <h1 class="titre-texte"><b><span>M</span>es commandes</b></h1>
+    @if (Model != null && Model.Count() > 0)
+    {
+        <table class="table table-striped">
+            <tr>
+                <th>OrderDate</th>
+                <th>OrderStatus</th>
+            </tr>
+            @foreach(var order in Model)
+            {
+                <tr>
+                    <td>@order.CreateDate.ToString("dd-MM-yyyy")</td>
+                    <td>@order.OrderStatus.StatusName</td>
+                </tr>
+                @if (order.OrderDetail != null && order.OrderDetail.Count > 0)
+                {
+                    <tr>
+                        <td>
+                            <table class="table table-striped">
+                                <tr>
+                                    <td>
+                                        Total:
+                                    </td>
+                                    <td>
+                                        @(order.OrderDetail.Select(item => item.Plat.Price * item.Quantity).Sum())
+
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th>Plat</th>
+                                    <th>Image</th>
+                                    <th>Category</th>
+                                    <th>Unit Price(INR)</th>
+                                    <th>Total Price</th>
+                                </tr>
+                                @foreach (var item in order.OrderDetail)
+                                {
+                                    <tr>
+                                        <td>@item.Plat.PlatName</td>
+                                        <td>
+                                            @if (string.IsNullOrEmpty(item.Plat.Image))
+                                            {
+                                                <img src="/images/WhatsApp Image 2023-12-09 at 16.34.02.jpeg" style="width:80px;height:100px" />
+                                            }
+                                            else
+                                            {
+                                                <img src="/images/@item.Plat.Image" style="width:80px;height:100px" />
+                                            }
+                                        </td>
+                                        <td>@item.Plat.Category.CategoryName</td>
+                                        <td>@item.Plat.Price X @item.Quantity</td>
+                                        <td> @(item.Plat.Price * item.Quantity) </td>
+                                    </tr>
+                                }
+                            </table>
+                        </td>
+                    </tr>
+                }
+            }
+            }
+           
+
+       </table>
+
+       
+    }
+    else
+    {
+        <h1 class="titre-texte"><b><span>A</span>ucune commande n'est effectuée</b></h1>
+
+    }
+    </div> 
+    </div>
+
+

@@ -1,0 +1,63 @@
+﻿@{
+    ViewBag.Title = "Categories";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+@model List<Resto4.Models.Category>
+<div class="container">
+<div class="container-fluid px-4">
+        <h1 class="titre-texte1"><b><span>C</span>atégories</b></h1>
+    <ol class="breadcrumb mb-4">
+        <li class="breadcrumb-item active">Categories</li>
+    </ol>
+
+</div>
+
+<div class="card mb-4">
+    <div class="card-header">
+        <i class="fas fa-table me-1"></i>
+        Category Details
+        <a href="../Admin/CreateCategorie" class="btn btn-info pull-right right">Add new</a>
+    </div>
+    
+    <div class="card-body">
+        <table id="datatablesSimple">
+            <thead>
+                <tr>
+                    <th>Sr. No.</th>
+                    <th>Category Name</th>
+                    <th>Action</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tfoot>
+                <tr>
+                    <th>Sr. No.</th>
+                    <th>Category Name</th>
+                    <th>Action</th>
+                    <th>Action</th>
+                </tr>
+            </tfoot>
+            <tbody>
+                <tr>
+                    @foreach (var item in Model)
+                    {
+
+                    <tr>
+                        <td>@(Model.IndexOf(item) + 1)</td>
+                        <td>@item.CategoryName</td>
+                        <td>@Html.ActionLink("Edit", "EditCategorie", new { id = item.CategoryId })</td>
+                        <td>
+                                @Html.ActionLink("Delete", "DeleteCategorie", new { id = item.CategoryId })
+                        </td>
+
+
+                    </tr>
+                    }
+                </tr>
+            </tbody>
+        </table>
+
+    </div>
+</div>
+</div>
